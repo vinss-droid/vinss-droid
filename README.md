@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+      💌 kevinsipahutar220604@gmail.com
 
 <!---
 vinss-droid/vinss-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

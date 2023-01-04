@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **laravel**
 
-- 📫 How to reach me **ks.developer.id@gmail.com*
+- 📫 How to reach me **ks.developer.id@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

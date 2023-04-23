@@ -46,6 +46,6 @@
   </a> 
 </p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vinss-droid?cardType=github&theme=tokyonight&preferLogin=false)](https://github.con/vinss-droid)
-[![My Awesome Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinss-droid&layout=compact&theme=tokyonight&langs_count=8)](https://github.con/vinss-droid)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vinss-droid?cardType=github&theme=tokyonight&preferLogin=false)](https://github.com/vinss-droid)
+[![My Awesome Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinss-droid&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/vinss-droid)
 

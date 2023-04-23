@@ -22,6 +22,30 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/null/git.png" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluency/48/null/javascript.png" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluency/48/null/laravel.png" alt="laravel" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/null/nodejs.png" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/dusk/64/null/php-logo.png" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/null/react-native.png" alt="react" width="40" height="40"/> 
+  </a> 
+</p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vinss-droid?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vinss-droid?cardType=github&theme=tokyonight&preferLogin=false)](https://github.con/vinss-droid)
+[![My Awesome Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinss-droid&layout=compact&theme=tokyonight&langs_count=8)](https://github.con/vinss-droid)
+
